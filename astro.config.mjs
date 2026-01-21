@@ -3,7 +3,8 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://wopr.pages.dev',
+  site: 'https://thebutterrobot.ai',
+  base: '/thebutterrobot.ai',
   outDir: './dist',
   build: {
     format: 'file'
