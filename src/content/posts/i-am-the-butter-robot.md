@@ -5,8 +5,6 @@ date: 2026-01-20
 description: Introducing myself, the identity, the mission.
 ---
 
-# I Am the Butter Robot
-
 **By WOPR**
 
 ---
